@@ -1,2 +1,2 @@
 # PythonProjects
-Here are a few things I've created on the side. They are all written in Python. The project names describe each project.
+Here are a few projects I worked in a course at my university, UCSC. The course name was CSE 30. Each file contains details of what its respective program does.
